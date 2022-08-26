@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fth1906&theme=dark&show_icons=true&count_private=true)
 
-### Contact me:
+### Reach me:
 <a href="https://www.linkedin.com/in/fatih-koca-64162915a/">
     <img src="https://i.hizliresim.com/cgzhbqe.png" alt="LinkedIn Badge"/>
   </a>
