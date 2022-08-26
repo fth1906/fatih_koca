@@ -16,7 +16,7 @@
 
   
 
-<div id="left" align="center">
+<div id="center" align="center">
   <img src="https://thumbs.gfycat.com/TenseCompetentAsiaticlesserfreshwaterclam-max-1mb.gif" width="100"/>
 </div>
 
