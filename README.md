@@ -14,8 +14,6 @@
     <img src="https://i.hizliresim.com/pqh1ofc.png" alt="Mail Badge"/>
   </a>
 
-
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fth1906&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fth1906" width="45%"/> 
   
 
 <div id="left" align="center">
