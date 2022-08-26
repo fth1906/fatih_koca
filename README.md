@@ -6,7 +6,7 @@
   <a href="https://stackoverflow.com/users/13115552/fatih-koca">
     <img src="https://i.hizliresim.com/8ghu4j1.png" alt="Stack Badge"/>
   </a>
-  <a href="ailto:fatihkoca.19@gmail.com">
+  <a href="mailto:fatihkoca.19@gmail.com">
     <img src="https://i.hizliresim.com/pqh1ofc.png" alt="Mail Badge"/>
   </a>
   
