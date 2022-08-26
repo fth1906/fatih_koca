@@ -4,7 +4,7 @@
 
 ### Reach me:
 
-  <a href="https://www.linkedin.com/in/fatih-koca-64162915a/" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/fatih-koca-64162915a/">
     <img src="https://i.hizliresim.com/cgzhbqe.png" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/13115552/fatih-koca"target="_blank">
