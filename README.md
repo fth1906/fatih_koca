@@ -1,8 +1,7 @@
 ## Fatih Koca <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=fth1906.fth1906" alt="fth1906" /> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fth1906&theme=dark&show_icons=true&count_private=true)
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fth1906&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fth1906" width="45%"/> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fth1906&layout=compact)](https://github.com/fth1906/github-readme-stats)
 ### Reach me:
 
   <a href="https://www.linkedin.com/in/fatih-koca-64162915a/">
